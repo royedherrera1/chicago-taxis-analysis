@@ -20,6 +20,12 @@ Based on this, I recommend:
 
 ---
 
+## Dashboard Preview
+
+![Chicago Taxi Dashboard](https://github.com/royedherrera1/chicago-taxis-analysis/blob/809855e55b8f3aeea891ff9c3e0fb95b0f803343/Tableau%20chicago%20taxis.png)
+
+---
+
 ## Business Problem
 
 Taxi trip data contains valuable information about urban mobility and transportation demand. However, without a centralized and aggregated view, it is difficult for stakeholders to answer key questions such as:
