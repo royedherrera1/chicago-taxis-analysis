@@ -41,10 +41,14 @@ Taxi trip data contains valuable information about urban mobility and transporta
 
 ## Dataset
 
-- **Source:** Chicago Taxi Trips – BigQuery Public Dataset  
+- **Source:** Chicago Taxi Trips — BigQuery Public Dataset  
+- **BigQuery dataset:** `bigquery-public-data.chicago_taxi_trips.taxi_trips`  
 - **Period Covered:** 2013–2023  
 - **Records:** 200+ million taxi trips  
 - **Granularity:** Individual trip-level data  
+
+This dataset is publicly available via Google BigQuery. This project is for educational purposes only.
+
 
 ---
 
